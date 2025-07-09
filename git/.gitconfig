@@ -1,0 +1,7 @@
+[user]
+	name = juannn-j
+	email = lainfhj@proton.me
+[core]
+	editor = neovim
+[init]
+	defaultBranch = main
