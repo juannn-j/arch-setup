@@ -37,6 +37,7 @@ pacman=(
 )
 
 yay=(
+  ulauncher 
   carapace-bin
   zsh-antidote
   zen-browser-bin

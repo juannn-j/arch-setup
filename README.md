@@ -5,8 +5,9 @@ Trying make reproducible arch.
 ## Tools
 
 - Ghostty
-- Niri
+- Gnome
 - Zed
+- Zen
 
 ## References
 
